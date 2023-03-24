@@ -49,6 +49,9 @@
 
 ## 部品配置図
 
+![PartsPlacementChart](/image/PikoPikoBitsAlpha_parts_placement.PNG)
+![PartsPlacementImage](/image/IMG_5657.JPG)
+
 ## 部品実装上の注意
 ### ダイオード
 - ダイオードは極性があります。方向に注意してください。
